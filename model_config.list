@@ -1,0 +1,12 @@
+[
+    {
+         "model": "gemini-1.5-flash",
+         "api_key": "AIzaSyDeY4to-Eh9_x7MidU_aJa-2j_Lt77jt2g",
+         "api_type": "google"
+    },
+    {
+         "model": "gemini-1.5-pro",
+         "api_key": "AIzaSyDeY4to-Eh9_x7MidU_aJa-2j_Lt77jt2g",
+         "api_type": "google"
+    }
+]
