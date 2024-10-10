@@ -2,3 +2,4 @@ autogen
 streamlit
 python-dotenv
 google-generativeai
+langchain_google_genai
